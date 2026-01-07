@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Bharda</h1>
 <h3 align="center">Java | Spring Boot | Backend Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashBharda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -12,21 +8,20 @@
 - 🎓 BCA Graduate from **Bhakta Kavi Narsinh Mehta University**
 - ☕ Java Backend Developer (Fresher)
 - 💡 Strong knowledge of **Core Java, OOP, Collections, JDBC**
-- 🌱 Learning **Spring Boot, REST APIs & Microservices**
+- 🌱 Learning **Spring Boot & REST APIs**
 - 🛠 Built real-world backend & desktop applications
-- 📍 Open to **Java Developer roles in Gujarat**
+- 📚 Continuously learning and improving backend skills
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Backend
+### 🔹 Backend & Programming
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🔹 Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1F1F1F?style=for-the-badge)
 
 ### 🔹 Frontend Basics
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
