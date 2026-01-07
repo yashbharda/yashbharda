@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yash Bharda</h1>
+<h3 align="center">Java | Spring Boot | Backend Developer</h3>
 
-<!--
-**yashbharda/yashbharda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BCA Graduate from **Bhakta Kavi Narsinh Mehta University**
+- 💻 Fresher Java Developer with strong backend fundamentals
+- ☕ Skilled in **Core Java, OOP, JDBC**
+- 🌱 Currently learning **Spring Boot & Microservices**
+- 🛠 Hands-on experience with real-world Java projects
+- 📍 Looking for **Java Developer opportunities in Gujarat**
+
+---
+
+## 🛠 Tech Stack & Tools
+
+### 🔹 Backend & Programming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🔹 Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1F1F1F?style=for-the-badge)
+
+### 🔹 Frontend Basics
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔹 Tools
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📂 Projects
+
+- 📘 **Bookstore REST API** – Spring Boot, H2, Swagger
+- 🏫 **College Admission Management System** – Java, JDBC, MySQL
+- 🛒 **Grocery Sale Desktop App** – Java, Swing, MySQL
+- 🎓 **Student Enrollment & Grade Management System**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **yashbharda@gmail.com**
+- 📍 Location: **Gujarat, India**
+- 💼 LinkedIn: *(Add your LinkedIn link here)*
+
+---
+
+⭐ **“Always learning and building clean, efficient backend solutions.”**
