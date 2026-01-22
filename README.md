@@ -64,7 +64,7 @@
 
 - 📧 Email: **yashbharda@gmail.com**
 - 📍 Location: **Gujarat, India**
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/yashbharda/)*
 
 ---
 
