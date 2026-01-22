@@ -66,7 +66,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: **yashbharda@gmail.com**
+- 📧 Email: **yashbhardaa@gmail.com**
 - 📍 Location: **Gujarat, India**
 - 💼 LinkedIn: **https://www.linkedin.com/in/yashbharda/**
 
