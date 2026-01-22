@@ -37,17 +37,21 @@
 
 ## 📂 Featured Projects
 
-- 📘 **Bookstore REST API**  
-  Spring Boot | H2 | Swagger | REST APIs  
+### 🚲 Bike Management System (College Project)
+- 🔗 GitHub: https://github.com/yashbharda/Bike-Management-System  
+- 🛠 **Core Java, MySQL**
+- Developed a Java-based application for bike inventory management
+- Implemented complete **CRUD operations**
+- Integrated MySQL database using **JDBC**
 
-- 🏫 **College Admission Management System**  
-  Java | JDBC | MySQL  
+---
 
-- 🛒 **Grocery Sale Desktop Application**  
-  Java Swing | MySQL  
-
-- 🎓 **Student Enrollment & Grade Management System**  
-  Custom Exceptions | OOP | Java  
+### 📚 E-Book Management System (College Project)
+- 🔗 GitHub: https://github.com/yashbharda/Ebook  
+- 🛠 **Java, MySQL, JSP, Servlets, HTML, CSS, JavaScript**
+- Developed a web-based e-book management system
+- Implemented backend logic using **JSP & Servlets**
+- Used **JDBC** for database connectivity and data persistence
 
 ---
 
